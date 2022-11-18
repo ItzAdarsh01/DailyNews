@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+   {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Spacewalk Outside the International Space Station with NASA Astronauts Josh Cassada and Frank Rubio - NASA",
+    "description": null,
+    "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsNvIV3UUcQw",
+    "urlToImage": null,
+    "publishedAt": "2022-11-15T11:29:32Z",
+    "content": null
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Ukraine: Zelensky snubs Russia as he addresses 'G19' at G20 - BBC",
+    "description": "Ukraine's president called on world leaders to end the war, and extend a crucial grain deal.",
+    "url": "https://www.bbc.com/news/world-asia-63632161",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA8F/production/_127636634_gettyimages-1244788380.jpg",
+    "publishedAt": "2022-11-15T11:16:13Z",
+    "content": "Ukrainian President Volodymyr Zelensky called on \"G19\" world leaders to end the Russian invasion, in a pointed snub to Moscow at the G20 summit.\r\nMr Zelensky appeared in a video speech beamed to lead… [+4174 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "NASA Moon Rocket Launch Live | Artemis 1 Mission | Nasa To Launch Moon Rocket | English News Live - CNN-News18",
+    "description": "NASA Moon Rocket Launch Live | Artemis 1 Mission | Nasa To Launch Moon Rocket | English News LiveMission managers met on Monday (Nov. 14) to discuss the flig...",
+    "url": "https://www.youtube.com/watch?v=7Ts4pgTcZ8A",
+    "urlToImage": "https://i.ytimg.com/vi/7Ts4pgTcZ8A/maxresdefault_live.jpg",
+    "publishedAt": "2022-11-15T11:07:24Z",
+    "content": null
+    }
+    ]
+    }
