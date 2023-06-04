@@ -5,6 +5,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 background-color: rgb(221, 221, 221);
 cursor: pointer;
 }
+.nav-link:hover{
+color: black;
+}
 .marquee {
     width: 100%;
 	line-height: 1rem;
