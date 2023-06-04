@@ -1,10 +1,6 @@
 *{
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.hdnsty{
-border:2px solid rgb(46, 48, 147);
-border-radius: 15px;
-}
 .hdnsty:hover{
 background-color: rgb(221, 221, 221);
 cursor: pointer;
